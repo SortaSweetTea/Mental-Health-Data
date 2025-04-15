@@ -1,0 +1,4 @@
+Post_ID,Platform,Post_Content,Keywords_Hashtags,Sentiment,Mentions_Mental_Health,Community_Engagement
+001,Reddit,"Gaming helps me escape anxiety, but sometimes it gets too stressful.","#GamingAndMentalHealth, #Stress",Negative,Yes,High
+002,Twitter,I love my gaming group. We always support each other.,"#GamingCommunity, #MentalHealth",Positive,Yes,Moderate
+003,Reddit,Feeling so down today... I just want to game to forget everything.,"#MentalHealthMatters, #GamingStress",Negative,Yes,High

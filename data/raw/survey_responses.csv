@@ -1,0 +1,4 @@
+Respondent_ID,Age,Gender,Country,Gaming_Experience,Weekly_Gaming_Hours,Game_Types_Played,Play_Alone_Or_Other,Multiplayer_Frequency,Stress_While_Gaming,Is_Gaming_Stressful,Mental_Health_Impact,Breaks_For_Mental_Health,Coping_Through_Gaming,Gaming_Impact_On_Mental_Health,Community_Engagement,Community_Support,Positive_Mental_Health_Support
+001,18-24,Male,USA,Regular,15,"Action, RPG","Co-op, Competitive",Often,Occasionally,No,Negative,Sometimes,Yes,Worsens,Yes,4,Yes
+002,25-34,Female,UK,Casual,5,"Simulation, Puzzle",Solo,Rarely,Never,No,Positive,Never,No,No Impact,No,3,No
+003,18-24,Non-binary,Canada,Hardcore,25,"FPS, Strategy",Co-op,Always,Frequently,Yes,Negative,Often,Yes,Worsens,Yes,5,Yes
